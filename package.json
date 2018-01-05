@@ -1,0 +1,32 @@
+{
+  "name": "vue-crud-tables",
+  "version": "1.0.1",
+  "description": "Smart table component with crud funcionality",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "vue",
+    "vue2",
+    "crud",
+    "table",
+    "tables",
+    "vue crud",
+    "vue tables",
+    "javascript"
+  ],
+  "dependencies": {
+    "axios": "0.17.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mhackiewicz/vue-crud-tables.git"
+  },
+  "author": "Mateusz Hackiewicz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mhackiewicz/vue-crud-tables/issues"
+  },
+  "homepage": "https://github.com/mhackiewicz/vue-crud-tables#readme"
+}
