@@ -1,5 +1,9 @@
 # vue-crud-tables
 Smart Vue table component with crud funcionality
+## Example
+
+Demo: https://vue-crud-tables.herokuapp.com
+
 
 ## Uses
 
