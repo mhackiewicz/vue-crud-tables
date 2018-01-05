@@ -8,7 +8,7 @@ Smart Vue table component with crud funcionality
 ```
 
 ```javascript
-    import VueTables from 'vue-tables'
+    import VueTables from 'vue-crud-tables'
     
     Vue.use(VueTables);
 ```
