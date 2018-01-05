@@ -1,6 +1,6 @@
 {
   "name": "vue-crud-tables",
-  "version": "1.0.1",
+  "version": "1.0.4",
   "description": "Smart table component with crud funcionality",
   "main": "index.js",
   "scripts": {
