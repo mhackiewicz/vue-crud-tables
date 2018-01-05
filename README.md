@@ -4,7 +4,7 @@ Smart Vue table component with crud funcionality
 ## Uses
 
 ``` bash
-    npm install vue-tables
+    npm install vue-crud-tables
 ```
 
 ```javascript
