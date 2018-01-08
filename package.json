@@ -1,7 +1,7 @@
 {
   "name": "vue-crud-tables",
   "version": "1.0.4",
-  "description": "Smart table component with crud funcionality",
+  "description": "Smart Vue table component with CRUD functionality",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
